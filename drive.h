@@ -27,3 +27,5 @@ void stopClaw() //stop claw movement
 {
 	motor[claw] = 0;
 }
+
+//Author: Preethi
