@@ -20,8 +20,8 @@ task main()
 	int DEADBAND = 10;
 
 	//create variables
-	int leftSpeed = 0;
-	int rightSpeed = 0;
+	float leftSpeed = 0;
+	float rightSpeed = 0;
 	int openClaw  = 0;
 	int closeClaw = 0;
 	int raiseArm = 0;
