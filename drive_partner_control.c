@@ -19,11 +19,11 @@ task main()
 	int DEADBAND = 10;
 
 	//create variables
-	int leftSpeed = 0;
-	int rightSpeed = 0;
-	int armSpeed = 0;
-	int openClaw = 0;
-	int closeClaw = 0;
+	float leftSpeed = 0;
+	float rightSpeed = 0;
+	float armSpeed = 0;
+	float openClaw = 0;
+	float closeClaw = 0;
 
 
 	//drive
