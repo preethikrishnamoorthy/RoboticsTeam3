@@ -22,8 +22,8 @@ task main()
 	float leftSpeed = 0;
 	float rightSpeed = 0;
 	float armSpeed = 0;
-	float openClaw = 0;
-	float closeClaw = 0;
+	int openClaw = 0;
+	int closeClaw = 0;
 
 
 	//drive
