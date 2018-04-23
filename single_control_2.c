@@ -25,7 +25,7 @@ task main()
 		}
 
 		//right side
-		if (vexRT[Ch2] > -15 && vexRT[Ch3] < 15) {
+		if (vexRT[Ch2] > -15 && vexRT[Ch2] < 15) {
 			rightSpeed = 0;
 		}
 
